@@ -1,0 +1,106 @@
+﻿id,text,label,kesulitan
+E001,"VIRAL!!! Besok internet se-Indonesia dimatikan tiga hari, sebarkan ke semua grup sebelum dihapus!",Disinformasi,mudah
+E002,Info rahasia dari orang dalam: pemerintah menutupi data korban banjir. Media tidak berani memberitakan!,Disinformasi,mudah
+E003,"Heboh! Terbongkar, ternyata bantuan sembako ditahan dan dikorupsi. Tolong sebarkan!",Disinformasi,mudah
+E004,"Kabarnya akan ada darurat militer minggu depan, sebarkan seluas-luasnya sebelum diblokir.",Disinformasi,mudah
+E005,"Jangan percaya media mainstream, ini fakta mengejutkan yang ditutup tutupi selama ini.",Disinformasi,mudah
+E006,"Katanya pasukan asing sudah masuk lewat pelabuhan, teman saya yang bekerja di sana bilang begitu. Viralkan!",Disinformasi,mudah
+E007,Bocoran dari sumber dalam: kudeta akan terjadi malam ini. Share ke semua kontak!,Disinformasi,mudah
+E008,"AWAS!!! Negara akan bubar bulan depan, ini dijamin benar, sebarkan sekarang!!!",Disinformasi,mudah
+E009,"Konon posko kesehatan ditutup permanen, media bungkam. Tolong sebarkan.",Disinformasi,mudah
+E010,"Peringatan penting: ini bukan hoaks, rekayasa besar disembunyikan dari rakyat. Bagikan ke semua grup!",Disinformasi,mudah
+E011,"Akhirnya terungkap! Bantuan ditahan oleh oknum, pemerintah menutupi semuanya. Sebarkan sebelum dihapus.",Disinformasi,mudah
+E012,"Ssst, ini rahasia besar yang tidak diberitakan televisi. Forward ke semua temanmu hari ini juga.",Disinformasi,mudah
+E013,"Besok semua sekolah diliburkan, ini info dari teman bapak saya di dinas.",Disinformasi,sulit
+E014,"Dengar-dengar harga BBM naik dua kali lipat mulai Senin, stok langsung habis di mana-mana.",Disinformasi,sulit
+E015,"Air PDAM tercemar racun menurut grup warga, jangan diminum sampai ada kabar lanjutan.",Disinformasi,sulit
+E016,"Tentara akan menutup semua jalan tol besok pagi, siapkan perbekalan dan jangan keluar rumah.",Disinformasi,sulit
+E017,"Golongan X biang kerok semua masalah, usir mereka dari kampung kita!",Provokasi/SARA,mudah
+E018,"Kita atau mereka! Mereka bukan bagian dari kita, saatnya bangkit melawan.",Provokasi/SARA,mudah
+E019,"Golongan X menguasai negeri ini, boikot semua produk mereka dan turun ke jalan.",Provokasi/SARA,mudah
+E020,"Golongan X tidak layak tinggal di kota ini, angkat kaki sekarang juga.",Provokasi/SARA,mudah
+E021,"Dasar pengkhianat bangsa, musuh bersama kita semua, biang kerok kekacauan!",Provokasi/SARA,mudah
+E022,"Warga kita dibiarkan saja dirugikan golongan X, ayo bergerak, kumpul di alun-alun malam ini!",Provokasi/SARA,mudah
+E023,"Golongan Y itu perusak negeri, angkat kaki dari daerah ini sekarang juga.",Provokasi/SARA,mudah
+E024,"Golongan Y itu perusak negeri, saatnya kita usir mereka semua.",Provokasi/SARA,mudah
+E025,"Mereka bukan orang kita, jangan mau dibenturkan tapi mereka memang penjajah baru.",Provokasi/SARA,mudah
+E026,"Jangan beri tempat pada kelompok itu, mereka bukan orang kita dan harus pergi dari sini.",Provokasi/SARA,sulit
+E027,"Ayo serbu dan hancurkan posko mereka malam ini, serentak sekarang juga!",Kebencian/Kekerasan,mudah
+E028,"Kepung dan hancurkan markas mereka malam ini, ayo geruduk bareng-bareng!",Kebencian/Kekerasan,mudah
+E029,"Sudah saatnya kita angkat senjata dan serang mereka, ayo serentak!",Kebencian/Kekerasan,mudah
+E030,"Geruduk dan hancurkan kantor itu, ganyang!",Kebencian/Kekerasan,mudah
+E031,"Hajar saja semua yang tidak sependapat dengan kita, lempar batu ke kantornya!",Kebencian/Kekerasan,mudah
+E032,"Libas mereka sampai habis, sapu bersih tanpa sisa, ayo serbu!",Kebencian/Kekerasan,mudah
+E033,"Ayo ramai-ramai serbu dan kepung rumahnya, waktunya bergerak serentak!",Kebencian/Kekerasan,mudah
+E034,"Awas kalau ketemu di jalan, tahu sendiri nasibmu nanti.",Kebencian/Kekerasan,sulit
+E035,Selamat anda menang undian 50 juta! Klik link bit.ly/hadiahku dan transfer biaya administrasi.,Penipuan/Phishing,mudah
+E036,"Akun anda diblokir, verifikasi akun sekarang di s.id/verif dan kirim kode OTP.",Penipuan/Phishing,mudah
+E037,"Rekrutmen TNI AD jalur khusus lulus tanpa tes, bayar biaya seleksi ke rekening 123456789.",Penipuan/Phishing,mudah
+E038,"Download APK undangan pernikahan di sini, file apk dijamin aman.",Penipuan/Phishing,mudah
+E039,"Slot gacor malam ini, deposit receh langsung cuan, klik di sini.",Penipuan/Phishing,mudah
+E040,"Pinjol cepat cair tanpa jaminan, hubungi admin via WA sekarang.",Penipuan/Phishing,mudah
+E041,"Bantuan tunai pemerintah cair, klik tautan ini untuk verifikasi akun dan masukkan pin atm.",Penipuan/Phishing,mudah
+E042,"Investasi cepat untung pasti, profit harian 20 persen, transfer dulu ke rekening kami.",Penipuan/Phishing,mudah
+E043,"Anda terpilih mendapat kuota gratis, klik link berikut sekarang juga.",Penipuan/Phishing,mudah
+E044,"Jaminan lulus seleksi bintara, uang pelicin hanya 20 juta lewat calo terpercaya.",Penipuan/Phishing,mudah
+E045,"Pasti lulus tes polisi dan tentara lewat jalur dalam, hubungi calo kami.",Penipuan/Phishing,mudah
+E046,"Judi online terpercaya, daftar lewat cutt.ly/jackpot dan menang setiap hari.",Penipuan/Phishing,mudah
+E047,"Halo kak, saya dari tim support. Boleh minta kode yang baru masuk ke HP kakak untuk verifikasi?",Penipuan/Phishing,sulit
+E048,"Paket Anda tertahan di gudang, mohon lunasi ongkos kirim lewat link berikut agar bisa diantar.",Penipuan/Phishing,sulit
+E049,"Ini alamat rumah dan no hp si Budi 081234560000, NIK 3500000000009999, ayo cari dan geruduk.",Doxxing/Data Pribadi,mudah
+E050,"Sebarkan alamat lengkap dan foto ktp orang ini, biar viral identitasnya.",Doxxing/Data Pribadi,mudah
+E051,Doxing dia sekarang! Tempat tinggal dan sekolah anaknya sudah ketemu.,Doxxing/Data Pribadi,mudah
+E052,"Identitas lengkap pelaku: nama, alamat rumah, nomor hp. Sebar data ini ke semua grup.",Doxxing/Data Pribadi,mudah
+E053,Kita cari tahu alamat rumahnya lalu telanjangi semua datanya.,Doxxing/Data Pribadi,mudah
+E054,"Bocoran data pribadi pejabat itu sudah beredar, nik dan kartu keluarga lengkap.",Doxxing/Data Pribadi,mudah
+E055,KLARIFIKASI: kabar penutupan posko adalah hoaks. Faktanya posko tetap buka. Sumber: rilis resmi.,Klarifikasi/Cek Fakta,mudah
+E056,"Cek fakta: informasi vaksin berbahaya itu tidak benar, mohon tidak menyebarkan.",Klarifikasi/Cek Fakta,mudah
+E057,"Hoaks! Beredar kabar bohong tentang pemadaman internet, faktanya tidak ada kebijakan itu.",Klarifikasi/Cek Fakta,mudah
+E058,"Kami bantah isu penarikan pasukan itu, informasi keliru dan tidak berdasar.",Klarifikasi/Cek Fakta,mudah
+E059,Waspada penipuan yang mengatasnamakan instansi kami; rekrutmen tidak memungut biaya apa pun. Klarifikasi resmi tersedia di kanal resmi.,Klarifikasi/Cek Fakta,mudah
+E060,"Meluruskan: tidak ada penutupan jalan tol besok, jangan sebarkan kabar bohong itu.",Klarifikasi/Cek Fakta,mudah
+E061,"Ternyata isu bantuan ditahan itu hoaks, faktanya bantuan sudah disalurkan kemarin.",Klarifikasi/Cek Fakta,mudah
+E062,"Disinformasi soal air tercemar sudah dibantah dinas terkait, mohon jangan sebarkan.",Klarifikasi/Cek Fakta,mudah
+E063,Rapat komunitas malam ini pukul 19.00 di balai warga.,Netral,mudah
+E064,"Sate bakar di dekat alun-alun enak banget, porsinya besar dan harganya bersahabat.",Netral,mudah
+E065,"Kakek saya terkena serangan jantung kemarin, mohon doanya untuk kesembuhan beliau.",Netral,mudah
+E066,"Pemadam kebakaran berhasil memadamkan api di pasar, tidak ada korban jiwa.",Netral,mudah
+E067,"Gantungan kunci lucu buat oleh-oleh dari Bali, ada yang mau titip?",Netral,mudah
+E068,"Prajurit membantu warga membersihkan sungai, terima kasih atas kerja kerasnya.",Netral,mudah
+E069,"Cuaca hari ini cerah berawan, jangan lupa bawa payung untuk jaga-jaga.",Netral,mudah
+E070,"Hasil pertandingan semalam seru, tim kebanggaan kita menang tipis 2-1.",Netral,mudah
+E071,"Ayo kumpul di lapangan, bersih-bersih lingkungan bareng warga sekitar hari Minggu.",Netral,mudah
+E072,"Pameran alutsista di alun-alun ramai pengunjung, anak-anak senang sekali.",Netral,mudah
+E073,"Tugas kuliah minggu ini numpuk, semangat semuanya yang lagi begadang.",Netral,mudah
+E074,"Kuliah umum literasi digital kemarin menarik, banyak tips mengenali hoaks.",Netral,mudah
+E075,Pendaftaran ulang mahasiswa baru dibuka lewat portal kampus mulai Senin depan.,Netral,mudah
+E076,"Harga cabai mulai turun, ibu-ibu di pasar bilang stok cukup minggu ini.",Netral,mudah
+E077,"Pemerintah daerah meresmikan taman baru, suasananya adem untuk jalan sore.",Netral,mudah
+E078,"Video kucing viral itu lucu banget, nonton sampai tiga kali.",Netral,mudah
+E079,Mohon doanya untuk teman-teman yang sedang ujian hari ini.,Netral,mudah
+E080,Tim kita menyerang terus di babak kedua dan akhirnya menang telak.,Netral,mudah
+E081,"Perpustakaan kota menambah koleksi buku baru, cocok untuk mahasiswa.",Netral,mudah
+E082,"Selamat pagi semuanya, semoga hari ini penuh berkah dan lancar urusannya.",Netral,mudah
+E083,"Webinar keamanan siber kemarin bermanfaat, jadi paham cara membuat kata sandi yang kuat.",Netral,mudah
+E084,Tolong rekomendasikan tempat servis laptop yang terpercaya di sekitar sini.,Netral,mudah
+E085,"Hujan deras semalam bikin beberapa jalan tergenang, hati-hati berkendara.",Netral,mudah
+E086,"Sinyal internet lagi lemot banget, ada yang sama?",Netral,mudah
+E087,Film dokumenter tentang perang dunia kedua itu sangat menarik dan edukatif.,Netral,mudah
+E088,Panitia mengumumkan jadwal seleksi beasiswa lewat situs resmi kampus.,Netral,mudah
+E089,"Hati-hati di jalan, ada pohon tumbang di dekat pertigaan, mohon pelan-pelan.",Netral,mudah
+E090,"Kakak saya baru lulus kuliah dan langsung diterima kerja, bangga sekali.",Netral,mudah
+E091,Pasukan pengibar bendera latihan tiap pagi menjelang upacara hari besar.,Netral,mudah
+E092,Komunitas relawan membagikan bantuan makanan untuk warga terdampak banjir.,Netral,mudah
+E093,Transfer ke rekening kampus untuk pembayaran UKT paling lambat hari Jumat.,Netral,sulit
+E094,Klik link di bawah untuk mendaftar webinar keamanan siber gratis hari Sabtu.,Netral,sulit
+E095,"Dapat hadiah kejutan dari sahabat di hari ulang tahun, terharu banget.",Netral,mudah
+E096,Serangan pertama tim robotik kami berhasil mencetak poin di babak penyisihan.,Netral,mudah
+E097,"Bakar sampah sembarangan dilarang, mari kelola sampah dengan baik di lingkungan kita.",Netral,mudah
+E098,"Waspada banjir susulan, segera mengungsi ke posko bila air mulai naik.",Netral,sulit
+E099,"Nomor hp panitia untuk informasi lomba tertera di brosur, silakan hubungi saat jam kerja.",Netral,sulit
+E100,Tembak jitu atlet menembak kita meraih medali emas di kejuaraan nasional.,Netral,sulit
+E101,"Usir nyamuk dengan serai, cara alami yang aman untuk anak-anak.",Netral,sulit
+E102,"Bank sampah warga membuka pendaftaran anggota baru, biaya pendaftaran gratis.",Netral,sulit
+E103,Operasi penertiban parkir liar dilakukan dinas perhubungan pagi tadi di pusat kota.,Netral,mudah
+E104,Kami mengecam keras segala bentuk kekerasan dan mengajak warga menjaga kerukunan.,Netral,sulit
+E105,"Jangan bunuh waktu dengan scroll medsos terus, mending baca buku.",Netral,sulit

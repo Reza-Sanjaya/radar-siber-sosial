@@ -1,0 +1,6 @@
+# Radar Siber Sosial - dependensi (semuanya open source; lihat atribusi di README & halaman Tentang)
+streamlit>=1.50
+pandas>=2.2
+numpy>=1.26
+plotly>=5.24
+openpyxl>=3.1
